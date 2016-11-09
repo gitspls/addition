@@ -1,3 +1,7 @@
+function int add(int a, int b) {
+  return a+b;
+}
+
 <<<<<<< HEAD
 Hello Dude and girl im good
 =======

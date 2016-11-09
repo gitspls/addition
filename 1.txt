@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Dude and girl im good
+=======
+Hello Dude and girl im bad
+>>>>>>> third

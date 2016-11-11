@@ -3,6 +3,6 @@ function int add(int a, int b) {
 }
 
 
-Hello Dudes and girls im good
+
 Hello Dudea and girla im bad
 

@@ -7,3 +7,4 @@ epic
 Hello Dudea and girla im bad
 
 cron job written
+was not working
